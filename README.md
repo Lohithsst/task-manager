@@ -1,6 +1,6 @@
 # Task Manager
 
-A to-do list program in C for the Windows console. Each task is saved as its own text file in a `tasks` folder, so tasks are kept between runs.
+A to-do list program in C for the Windows console. Each task is saved as its own text file in a `tasks` folder, so tasks are kept between runs. Built as a school project.
 
 ## Features
 
